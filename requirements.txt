@@ -1,3 +1,0 @@
-ffmpeg
-numpy
-manim
